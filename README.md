@@ -1,4 +1,5 @@
 # ChatQA PDF Chat Application
+![ChatQA Application Workflow](https://github.com/puranjayyadav/ChatQA-LLM/blob/01584ad56cf59af75d4aa33adfeb71eaffcf674d/2024-02-07_13h05_58.gif?raw=true)
 
 ## Overview
 
